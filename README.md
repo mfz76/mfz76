@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohamma43098232" target="blank"><img src="https://img.shields.io/twitter/follow/mohamma43098232?logo=twitter&style=for-the-badge" alt="mohamma43098232" /></a> </p>
 
-- 🌱 I’m currently learning **SQL, PowerBI**
+- 🌱 I’m currently learning **SQL, Python, Java & OOP, DSA in Python, nodeJS, JS**
 
 - 📫 How to reach me **mohammadfaraz786nyc@gmail.com**
 
