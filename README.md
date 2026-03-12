@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mohammadfaraz786nyc@gmail.com**
 
-- ⚡ Fun fact **Favourite programing langauge is English.**
+- ⚡ Fun fact **Favorite programming language is English.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
