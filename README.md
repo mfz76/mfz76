@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfz76&label=Profile%20views&color=0e75b6&style=flat" alt="mfz76" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mohamma43098232" target="blank"><img src="https://img.shields.io/twitter/follow/mohamma43098232?logo=twitter&style=for-the-badge" alt="mohamma43098232" /></a> </p>
+<p align="left"> <a href="https://x.com/its_mfz" target="blank"><img src="https://img.shields.io/twitter/follow/mohamma43098232?logo=twitter&style=for-the-badge" alt="mohamma43098232" /></a> </p>
 
-- 🌱 I’m currently learning **SQL, Python**
+- 🌱 I’m currently learning **----**
 
 - 📫 How to reach me **mohammadfaraz786nyc@gmail.com**
 
