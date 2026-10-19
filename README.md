@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Faraz</h1>
-<h3 align="center">i am a CSE Undergrad.</h3>
+<h3 align="center">i am an AI/ML Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfz76&label=Profile%20views&color=0e75b6&style=flat" alt="mfz76" /> </p>
 
